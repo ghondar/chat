@@ -27,8 +27,3 @@
   },
   "homepage": "https://github.com/abgv9221/chat"
 }
-{
-  "engines": {
-    "node": "0.10.x"
-  }
-}
